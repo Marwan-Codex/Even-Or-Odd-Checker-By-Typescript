@@ -1,4 +1,4 @@
-# Even Or Odd By Typescript Made By Marwan Codex
+# Even Or Odd By Typescript Made By Marwan Void.
 This is An Even Or Odd Checker By Typescript Language
 
 ## In This Program:
